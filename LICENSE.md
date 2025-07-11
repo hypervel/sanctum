@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) Sean Tymon
+Copyright (c) Taylor Otwell
 
 Copyright (c) Hypervel
 
